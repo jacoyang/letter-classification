@@ -6,3 +6,7 @@ We used the [letters.csv](https://github.com/jacoyang/letter-classification/blob
 
 # Authors
 Dana Young
+Jaco Yang
+Ziqi Z
+Payal Wadke
+Alex Wang
