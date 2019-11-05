@@ -1,5 +1,5 @@
 # letter-classification
-We have developed an algorithm to differentiate betweeen the letters of the Latin alphabet. This algorithm was made using persitant homology. All of the details are included in our [Jupyter Notebook](https://github.com/jacoyang/letter-classification/blob/master/Lettter_Classificationtester.ipynb).  
+We have developed an algorithm to differentiate betweeen the letters of the Latin alphabet. This algorithm was made using persitant homology. All of the details are included in our [Jupyter Notebook](https://github.com/jacoyang/letter-classification/blob/master/LettterClassification.ipynb).  
 
 # Data
 We used the [letters.csv](https://github.com/jacoyang/letter-classification/blob/master/letters.csv) dataset. This dataset was created by our professor. It contains all letters of the Latin alphabet and some punctuation. 
