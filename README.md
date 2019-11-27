@@ -8,5 +8,5 @@ We used the [letters.csv](https://github.com/jacoyang/letter-classification/blob
 Dana Young <br />
 Jaco Yang <br />
 Ziqi Z <br />
-Payal Wadke <br />
+PayalWadke <br />
 Alex Wang
